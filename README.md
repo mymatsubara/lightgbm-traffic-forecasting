@@ -10,7 +10,7 @@ O código fonte do projeto inteiro está no arquivo [main.ipynb](/main.ipynb). U
 
 Os dados utilizados para o treinamento dos modelos não estão disponíveis publicamente. Os dados foram disponibilizados generosamente pela equipe da CET-SP para realização deste estudo.
 
-## Ferramentas usadas
+## Ferramentas utilizadas
 
 | Ferramenta                                                                                       | Descrição                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
